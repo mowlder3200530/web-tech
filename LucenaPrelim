@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+    <title>Prelim Exam</title>
+    <link href="./assets/style.css" rel="stylesheet"/> 
+</head>
+<body>
+    <h1 style="color: red;
+    font-size: 30px;
+    font-style: italic;
+    font-family: sans-serif;
+    text-align: left;">My Friends' Favorite Colors and Foods</h1>
+
+    <ul style="color: darkred;
+    font-size: 20px;
+    font-style: unset;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;">
+        <li>Home</li>
+        <li>Profile</li>
+        <li>Go to Google Search <a href="www.google.com">(https://www.google.com)</a></li>
+    </ul>
+<p style="color: darkred; 
+font-size: 20px; 
+font-style: unset; 
+font-family: sans-serif; 
+text-align: left;">Thank you for visiting my page. This is the summary of my friends' <strong> favorite colors</strong> and <strong> foods</strong>. Enjoy browsing</p>
+<table>
+    <tr>
+    <th style="color:red">Image</th>
+    <th style="color:red">Name</th>
+    <th style="color:blue">Age</th>
+    <th style="color:green">Favorite Color/s</th>
+    <th style="color:orange; font-weight: lighter;">Favorite Food/s</th>
+    </tr>
+    <tr>
+        <td><img src="Image1.png" alt="description" width="150" height="150"></td>
+        <td>Juan dela Cruz</td>
+        <td>18</td>
+        <td><ul>
+            <li style="color: red">Red</li>
+            <li style="color: green">Green</li>
+            <li style="color: black">Black</li>
+        </ul></td>
+        <td><ol>
+            <li>Burger</li>
+            <li>Spaghetti</li>
+            <li>Fried Chicken</li>
+        </ol></td>
+    </tr>
+    <tr>
+        <td><img src="Image2.png" alt="description" width="150" height="150"></td>
+        <td>Jose Benito</td>
+        <td>21</td>
+        <td><ul>
+            <li style="color: pink">Pink</li>
+            <li style="color: blue">Blue</li>
+            <li style="color: green">Green</li>
+        </ul></td>
+        <td><ol>
+            <li>Adobo</li>
+            <li>Sinigang</li>
+            <li>Beef Tapa</li>
+        </ol></td>
+    </tr>
+    <tr>
+        <td><img src="Image3.png" alt="description" width="150" height="150"></td>
+        <td>Jennifer Ada</td>
+    <td>22</td>
+    <td><ul>
+        <li style="color: yellow">Yellow</li>
+        <li style="color: brown">Brown</li>
+        <li style="color: orange">Orange</li>
+        <li style="color: red"><s>Red</s></li>
+    </ul></td>
+    <td><ol>
+        <li>Crab</li>
+        <li>Fried Fish</li>
+        <li>Fried Chicken</li>
+    </ol></td>
+    </tr>
+   </table>
+<p style="color: teal; 
+font-size: 20px;
+font-style: unset;
+font-family: sans-serif;
+font-weight: bold;
+text-align: left;">Related blog posts</p>
+<ul style="font-size: 20px; font-family: sans-serif; font-style: italic;">
+    <li style="color:mediumblue">My first out of town</li>
+    <li style="color:red">My favorite programming language</li>
+    <li style="color:darkred">My favorite cars</li>
+</ul>
+<footer style="font-size: 20px; font-family: sans-serif; font-weight: bold; text-align: center;">Copyright 2021 Joana dela Cruz</footer>
+</body>
+</html>
