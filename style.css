@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    font-style: unset;
+    font-family: sans-serif;
+    text-align: center;
+}
+ 
+h2{
+    color: blue;
+    font-size: 25px;
+    font-style: unset;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: teal;
+} 
+
+#header-2 {
+    color: purple;
+}
+
+.header-3 {
+    color: pink;
+} 
+
+.hd
+{
+    color: green;
+}
+
+
+
+
+
+
